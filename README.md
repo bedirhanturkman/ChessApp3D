@@ -15,7 +15,6 @@ It includes classic chess rules along with features like **checkmate detection**
 ---
 
 ## 📷 Screenshots
-*(Screenshots from the game will be added here)*  
 
 <img width="1479" height="960" alt="image" src="https://github.com/user-attachments/assets/ce1a7b12-5f9e-4810-a9db-621974b1ea00" />
 
